@@ -1,0 +1,1 @@
+all=['xarm','camera','detector','planning','routing']
